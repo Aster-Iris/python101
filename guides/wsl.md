@@ -3,9 +3,6 @@
 This is a feature in windows 10+ that lest you install and run Linux programs and utilities on windows. We'll be using 
 to set up ubuntu.
 
-- [Enabling WSL](##Enabling WSL)
-- [Installing Ubuntu](##Installing Ubuntu)
-
 ## Enabling WSL
 To run WSL you need to firstly enable it as a feature on windows; then install and run the app from the microsoft store.
 
